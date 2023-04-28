@@ -1,4 +1,3 @@
-#Example
 terraform {
   required_providers {
     digitalocean = {
